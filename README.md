@@ -1,0 +1,1 @@
+The goal of the game is to make the snake as long as possible without crashing into a wall or running into its own body. The Snake game is often used as a typing practice tool, as players must use their keyboard to control the snake's movement.
